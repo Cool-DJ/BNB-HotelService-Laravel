@@ -3,11 +3,10 @@ Laravel Hotel is an open-source web application built with laravel 8.0, enchance
 
 Its now compatible with laravel 9
 ## Examples
-- Reservation
-![alt text](https://github.com/WailanTirajoh/laravel_hotel/blob/main/example-b.png?raw=true)
 
-- Dashboard
-![alt text](https://github.com/WailanTirajoh/laravel_hotel/blob/main/example.png?raw=true)
+![alt text](https://bnb.tmweb.dev/img/modelImages/Room/homeSlider/Sgv3zjDAfBrzIVNtRwkesanJQWdolXWe.gif?raw=true)
+
+![alt text](https://bnb.tmweb.dev/img/modelImages/Room/homeSlider/OknQuEdAQwZGI0hrBR31jBxmoEsMY9zR.jpg?raw=true)
 - And more ...
 
 ## Instalation 
