@@ -2,11 +2,12 @@
 Hotel service web application built with laravel 8.0, enchanced with laravel websockets features to have realtime notification experience.
 
 Its now compatible with laravel 9
-## Examples
-
-![alt text](https://bnb.tmweb.dev/img/modelImages/Room/homeSlider/Sgv3zjDAfBrzIVNtRwkesanJQWdolXWe.gif?raw=true)
-
-![alt text](https://bnb.tmweb.dev/img/modelImages/Room/homeSlider/OknQuEdAQwZGI0hrBR31jBxmoEsMY9zR.jpg?raw=true)
+## Logo screen
+![alt text](https://github.com/codefan1125/BNB-HotelService-Laravel/blob/main/Screenshot_1.png?raw=true)
+## MEDIA ABOUT US
+![alt text](https://github.com/codefan1125/BNB-HotelService-Laravel/blob/main/Screenshot_2.png?raw=true)
+## OUR SERVICES
+![alt text](https://github.com/codefan1125/BNB-HotelService-Laravel/blob/main/Screenshot_3.png?raw=true)
 - And more ...
 
 ## Instalation 
